@@ -29,6 +29,6 @@ I build computational systems that explore how humans think, learn, create, and 
 | [The Gleaner Protocol](https://github.com/xiyuexu-1013/Gleaner-Protocol) | An exploration game about choices, relics, and symbolic worlds. |
 | [The True Nature](https://true-nature.digitaliliad.workers.dev) | An experimental narrative game exploring player behavior and interpretation. |
 | [Gleaner VibeCave](https://gleaner-vibecave.pages.dev) | An interactive space for anonymous expression and social resonance. |
-| [Xing Le Ba](https://xingleba.digitaliliad.workers.dev) | A narrative simulation of relationships, decisions, and growth. |
+| [行了吧](https://xingleba.digitaliliad.workers.dev) | A narrative simulation of relationships, decisions, and growth. |
 
 I am interested in collaborating on research software, behavioral computing, intelligent interactive systems, data visualization, and open-source tools.
